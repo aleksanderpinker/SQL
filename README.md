@@ -1,1 +1,1 @@
-# SQL procedure and function use in company
+SQL procedures and functions used at work

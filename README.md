@@ -1,1 +1,1 @@
-# SQL privet procedure and function use in company
+# SQL procedure and function use in company
